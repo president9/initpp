@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/rkaya/initpp/example_project/build",
+  "command": "/usr/bin/c++  -I/Users/rkaya/initpp/example_project/include -std=gnu++2b -arch arm64 -Wall -Wextra -Werror -o CMakeFiles/example_project_core.dir/src/main.cpp.o -c /Users/rkaya/initpp/example_project/src/main.cpp",
+  "file": "/Users/rkaya/initpp/example_project/src/main.cpp",
+  "output": "CMakeFiles/example_project_core.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/rkaya/initpp/example_project/build",
+  "command": "/usr/bin/c++  -I/Users/rkaya/initpp/example_project/include  -arch arm64 -o CMakeFiles/example_project.dir/src/main.cpp.o -c /Users/rkaya/initpp/example_project/src/main.cpp",
+  "file": "/Users/rkaya/initpp/example_project/src/main.cpp",
+  "output": "CMakeFiles/example_project.dir/src/main.cpp.o"
+}
+]

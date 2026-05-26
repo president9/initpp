@@ -1,0 +1,4 @@
+/Users/rkaya/initpp/example_project/build/CMakeFiles/example_project_core.dir
+/Users/rkaya/initpp/example_project/build/CMakeFiles/example_project.dir
+/Users/rkaya/initpp/example_project/build/CMakeFiles/edit_cache.dir
+/Users/rkaya/initpp/example_project/build/CMakeFiles/rebuild_cache.dir
