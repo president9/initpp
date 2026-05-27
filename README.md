@@ -1,3 +1,5 @@
+# CURRENTLY BROKEN!!!
+CURRENTLY BROKEN!
 # INITPP (INIT PLUS PLUS)
 C++ project generator. Simple.
 
